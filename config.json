@@ -3,8 +3,8 @@
   "mailGuildId": "509480029764452353",
   "mainGuildId": "495995115022712847",
   "logChannelId": "509416186413318145",
-  "port": "9999",
+  "port": "7852",
   
   "status": "Message me for help!",
-  "responseMessage": "Thank you for your message! Our mod team will reply to you here as soon as possible."
+  "responseMessage": "Thank you for your request. A staff member will reply soon."
 }
