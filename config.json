@@ -1,9 +1,9 @@
 {
-  "token": "NTA5NDExMjU0MzEwNDA0MTE3.DsOXaQ.iqX8EqrvruCVEd0f8VAIuvOapYk",
+  "token": "NTEwMTM0MTY2Nzg1MDk3NzI5.DsX7Eg.sVFRNaJkzaPJrtVM3SSGwjmgKjg",
   "mailGuildId": "509480029764452353",
   "mainGuildId": "495995115022712847",
   "logChannelId": "509416186413318145",
-  "port": "7852",
+  "port": "1234",
   
   "status": "Message for Help!!",
   "responseMessage": "Thank you for your request. A staff member will reply soon."
